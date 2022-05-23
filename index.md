@@ -1,10 +1,6 @@
-## Welcome to GitHub Pages
+### Rouhin Mitra
 
-You can use the [editor on GitHub](https://github.com/rouhinmitra/rouhinmitra.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+I'm a PhD ~~Student~~ Candidate in Hydrological Sciences at University of California, Los Angeles. I completed my Bachelor's in Civil Engineering at Manipal Institute of Technology, India before arriving to the US to pursue my Master's in Environmental Engineering. I began my PhD with Prof. Mekonnen Gebremichael in 2021. During my master's I was introduced to remote sensing sensing and it's immense capabilities in monitoring and  use remote sensing to monitor the earth's surface. My current research is to accurately estimate evapotranspiration over agricultural areas at high resolution. 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
