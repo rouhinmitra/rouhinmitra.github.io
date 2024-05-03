@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Rouhin Mitra and I'm a PhD student at the University of California, Los Angeles. I'm a member of the [hydrology](https://www.cee.ucla.edu/hydro/) lab. My research interests lie in the intersection of climate and agriculture where I study the land-atmosphere interactions to quantify agricultural water use and demand. I'm advised by Mekonnen Gebremichael[https://samueli.ucla.edu/people/mekonnen-gebremichael/]. I'm also a GeoField Fellow at [AIDDATA](https://www.geofield.org/). To know more about my work, check out my talks and publications. 
+My name is Rouhin Mitra and I'm a PhD student at the University of California, Los Angeles. I'm a member of the [hydrology](https://www.cee.ucla.edu/hydro/) lab. My research interests lie in the intersection of climate and agriculture where I study the land-atmosphere interactions to quantify agricultural water use and demand. I'm advised by [Mekonnen Gebremichael](https://samueli.ucla.edu/people/mekonnen-gebremichael/). I'm also a GeoField Fellow at [AIDDATA](https://www.geofield.org/). To know more about my work, check out my talks and publications. 
 
 Skills
 ======
@@ -15,9 +15,9 @@ My research involves data from a combination of in-situ sensors and satellite im
 
 Misc
 ======
-I like to play sports and spend a lot of time playing soccer and tennis. I also like to read in my free time. 
+I like to play sports and exercise and spend my free time playing soccer and tennis. I also like to read in my free time. 
 
-<!-- 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
@@ -26,7 +26,8 @@ I like to play sports and spend a lot of time playing soccer and tennis. I also 
 
 Site-wide configuration
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+
+The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header.
 
 Create content & metadata
 ------
@@ -46,4 +47,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
