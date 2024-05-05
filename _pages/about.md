@@ -15,7 +15,7 @@ My research involves data from a combination of in-situ sensors and satellite im
 
 Misc
 ======
-I like to play sports and exercise and spend my free time playing soccer and tennis. I also like to read in my free time. 
+I like to play sports and exercise and spend my free time playing soccer and tennis. I also like to read in my free time.
 <!-- 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
