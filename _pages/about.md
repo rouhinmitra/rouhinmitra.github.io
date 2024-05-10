@@ -9,9 +9,9 @@ redirect_from:
 
 My name is Rouhin Mitra and I'm a PhD student at the University of California, Los Angeles. I'm a member of the [UCLA hydro lab](https://www.cee.ucla.edu/hydro/). My research interests lie in the intersection of climate and agriculture where I study the land-atmosphere interactions to quantify agricultural water use and demand. I'm advised by [Prof. Mekonnen Gebremichael](https://samueli.ucla.edu/people/mekonnen-gebremichael/). I'm also a GeoField Fellow at [AIDDATA](https://www.geofield.org/). To know more about my work, check out my [talks](https://rouhinmitra.github.io/talks) and [publications](https://rouhinmitra.github.io/publications). 
 
-My research involves data from a combination of in-situ sensors and satellite imagery to which I apply data driven approaches to develop validation frameworks and tools for agriculutural water management. Through the coursework at UCLA, I have also done several data science-y projects in the physical sciences domain. 
+My research involves data from a combination of in-situ sensors and satellite imagery to which I apply data driven approaches to develop validation frameworks and tools for agriculutural water management. I have also done several data science-y projects in the physical sciences domain. 
 
-I like to play sports and exercise and spend my free time playing soccer and tennis. I also like to read in my free time.
+I grew up in Kolkata, India and did my Bachelor's from Manipal Institude of Technology, India. I like to play sports and exercise and spend my free time playing soccer and tennis. I also like to read in my free time. 
 <!-- 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
