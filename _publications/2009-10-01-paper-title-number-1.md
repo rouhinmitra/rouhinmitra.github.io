@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-03-21
-venue: 'Published in \textit{Environmental Research Letters}'
+venue: 'Environmental Research Letters'
 paperurl: 'https://iopscience.iop.org/article/10.1088/1748-9326/ac5560/meta'
 citation: 'Haleakala, K., Yue, H., Alam, S., \textbf{Mitra, R.}, Bushara, A.I. and Gebremichael, M., 2022. The evolving roles of intensity and wet season timing in rainfall regimes surrounding the Red Sea. Environmental Research Letters, 17(4), p.044039.'
 ---
