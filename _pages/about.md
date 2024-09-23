@@ -18,6 +18,6 @@ In my research I integrate data-driven methodologies with physical observations,
 ## Past Experiences and Hobbies
 <!-- Previously, I worked with [Prof. Dennis Lettenmaier](https://geog.ucla.edu/person/dennis-lettenmaier/) and I was also a GeoField Fellow at [AIDDATA](https://www.geofield.org/) for a brief duration. I grew up in Kolkata, India. I love to play sports and spend my free time playing soccer and tennis. Sometimes, I solve sudoku's and other [puzzles](https://alokgoyal1971.com/) -->
 
-Previously, I worked with [Prof. Dennis Lettenmaier](https://geog.ucla.edu/person/dennis-lettenmaier/) on research projects involving water resources and hydrological modeling. I also was as a GeoField Fellow at AIDDATA, where I worked on geospatial data analysis for global development projects.
+Previously, I worked with [Prof. Dennis Lettenmaier](https://geog.ucla.edu/person/dennis-lettenmaier/) on research projects involving water resources management and hydrological modeling. I also was a GeoField Fellow at [AIDDATA](https://www.geofield.org/), where I worked on geospatial data analysis for global development projects.
 I grew up in Kolkata, India. I love playing sports and exercising. I devote my free time playing football and tennis, and I often find myself solving [puzzles](https://alokgoyal1971.com/)
 
