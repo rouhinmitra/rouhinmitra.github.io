@@ -2,7 +2,8 @@
 title: "The Role of Soil Moisture in Spring Runoff Predictability in a Warming Climate"
 collection: projects
 permalink: /project/sf_pred
-published: 2024-09-21
+published: 2023-01-03
+date: 2022-04-03
 description: "A study to underscore the importance of soil moisture in runoff predictability in the Western US basins"
 headline: "This is the headline for the project."
 link: '/projects/sf_pred'
