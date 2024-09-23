@@ -1,14 +1,16 @@
 ---
 layout: page
-title: "Curriculum Vitae"
+title: "Resume"
 permalink: /cv/
+author_profile: true
+
 ---
 
-## Curriculum Vitae
-
-You can download my CV as a PDF below:
-
-[Download CV](files/Rouhin_resume_ag.pdf)
+## Resume
+<iframe src="files/cv.pdf" width="100%" height="600px">
+  This browser does not support PDFs. Please download the PDF to view it: 
+  <a href="files/cv.pdf">Download CV</a>
+</iframe>
 
 <!-- ---
 layout: archive
