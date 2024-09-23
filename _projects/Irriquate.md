@@ -8,10 +8,5 @@ excerpt: "A system composed of various geospatial data, to help growers in Calif
 link: '/projects/sf_pred'
 ---
 
-## Project Overview
-
 This is the detailed description of the project. You can describe its features, goals, methods, results, etc.
 
-### Features
-- Feature 1
-- Feature 2

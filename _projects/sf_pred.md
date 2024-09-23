@@ -8,10 +8,6 @@ excerpt: "A study to underscore the importance of soil moisture in runoff predic
 link: '/projects/sf_pred'
 ---
 
-## Project Overview
-
 This is the detailed description of the project. You can describe its features, goals, methods, results, etc.
 
-### Features
-- Feature 1
-- Feature 2
+
