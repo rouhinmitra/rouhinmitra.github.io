@@ -1,4 +1,16 @@
 ---
+layout: page
+title: "Curriculum Vitae"
+permalink: /cv/
+---
+
+## Curriculum Vitae
+
+You can download my CV as a PDF below:
+
+[Download CV](files/Rouhin_resume_ag.pdf)
+
+<!-- ---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -61,4 +73,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
