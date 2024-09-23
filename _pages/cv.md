@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: archive
 title: "Resume"
 permalink: /cv/
 author_profile: true
-
 ---
 
 ## Resume
