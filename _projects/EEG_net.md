@@ -4,8 +4,7 @@ collection: projects
 permalink: /project/EEG_net
 published: 2022-01-03
 date: 2022-01-03
-description: "Using Deep Learning to to enhance classification performance of EEG data used for brain-computer interfaces"
-headline: "This is the headline for the project."
+excerpt: "Using Deep Learning to to enhance classification performance of EEG data used for brain-computer interfaces"
 link: '/projects/EEG_net'
 ---
 
