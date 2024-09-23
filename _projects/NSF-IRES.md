@@ -3,7 +3,7 @@ title: "Sustainable Water Resource Management in Eastern Nile Basin Countries: W
 collection: projects
 permalink: /project/NSF-IRES
 published: 2022-06-03
-date: 2024-06-22
+date: 2022-06-22
 excerpt: "Investigating efficiency of agricultural infrastructure and investments in Rwanda: The “Boots-on-the-Ground” Perspective "
 # link: '/projects/sf_pred'
 ---
