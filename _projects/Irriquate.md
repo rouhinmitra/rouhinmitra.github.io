@@ -1,9 +1,9 @@
 ---
-title: "The Role of Soil Moisture in Spring Runoff Predictability in a Warming Climate"
+title: "Irriquate"
 collection: projects
-permalink: /project/sf_pred
+permalink: /project/Irriquate
 published: 2024-09-21
-description: "A study to underscore the importance of soil moisture in runoff predictability in the Western US basins"
+description: "A system composed of various geospatial data, to help growers in California water their crops"
 headline: "This is the headline for the project."
 link: '/projects/sf_pred'
 ---
